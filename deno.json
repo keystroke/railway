@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "start": "deno run --allow-run --allow-net --reload https://obs.run --watch --reload --allow-net --allow-env --no-check @keystroke/railway"
+  }
+}
