@@ -1,5 +1,5 @@
 {
   "tasks": {
-    "start": "deno run -A --reload https://obs.run --watch -A --no-check"
+    "start": "deno run -A --reload https://obs.run -A --watch --no-check"
   }
 }
